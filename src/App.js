@@ -1,7 +1,5 @@
 import logo from './logo.svg';
 import './App.css';
-import Chart from './Chart1/Chart';
-import Home from './OrderBook/Home';
 
 function App() {
   return (
